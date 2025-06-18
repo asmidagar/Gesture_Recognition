@@ -75,7 +75,7 @@ Evaluate results and visualize training accuracy, loss, confusion matrix, precis
 
 📧 Contact
 For any queries or collaborations, feel free to reach out at:
-  Email: yourname@example.com
+  Email: asmigit834@gmail.com
   GitHub: asmidagar
 
 ⭐ License
